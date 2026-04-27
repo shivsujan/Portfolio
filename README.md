@@ -48,6 +48,7 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
+```
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -239,7 +240,7 @@ section {
     font-weight: bold;
     margin-left: 50px;
 }
-
+```
 ## OUTPUT
 <img width="1920" height="1080" alt="Screenshot 2026-04-27 133609" src="https://github.com/user-attachments/assets/251adb10-cac4-4745-8f2d-2b696999895e" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-27 133629" src="https://github.com/user-attachments/assets/c5043df4-dcf1-40c1-b9cc-f97a095e7890" />
