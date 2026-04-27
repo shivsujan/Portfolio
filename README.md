@@ -1,3 +1,5 @@
+Ex01 Portfolio
+Date: 17-03-2025
 AIM
 To create a Portfolio using HTML and CSS.
 
@@ -45,13 +47,13 @@ STEP 14
 Upload to GitHub Pages for free hosting.
 
 PROGRAM
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Portfolio</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
@@ -237,13 +239,10 @@ section {
     font-weight: bold;
     margin-left: 50px;
 }
-
 OUTPUT
-
-<img width="1920" height="1080" alt="Screenshot 2026-04-27 133609" src="https://github.com/user-attachments/assets/555d5b7c-b795-4d12-9e67-ec151714e3c0" />
-<img width="1920" height="1080" alt="Screenshot 2026-04-27 133629" src="https://github.com/user-attachments/assets/053d25e2-5048-478d-90f9-647cb92e6647" />
-<img width="1920" height="1080" alt="Screenshot 2026-04-27 133638" src="https://github.com/user-attachments/assets/9e12ec41-fc42-4c0e-877f-6a2f7cac19f1" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-27 133609" src="https://github.com/user-attachments/assets/80e28911-1d8d-436d-a8ba-80034e57b1d8" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-27 133629" src="https://github.com/user-attachments/assets/510e0942-1699-42bd-bd40-df92c98a30d3" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-27 133638" src="https://github.com/user-attachments/assets/744222e8-5932-4ecc-8563-833fdb4e11f4" />
 
 RESULT
-
 The program for creating Portfolio using HTML and CSS is executed successfully.
